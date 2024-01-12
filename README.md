@@ -23,3 +23,5 @@
 10차 수정 : setting error 수정
 
 11차 수정 : add btn
+
+12차 수정 : feature1 기능 추가
