@@ -19,3 +19,7 @@
 8차 수정 : win-error
 
 9차 수정 : ch
+
+10차 수정 : setting error 수정
+
+11차 수정 : add btn
